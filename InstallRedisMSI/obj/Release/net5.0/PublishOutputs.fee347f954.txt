@@ -1,0 +1,5 @@
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\publish\InstallRedisMSI.exe
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\publish\InstallRedisMSI.dll
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\publish\InstallRedisMSI.deps.json
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\publish\InstallRedisMSI.runtimeconfig.json
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\publish\InstallRedisMSI.pdb

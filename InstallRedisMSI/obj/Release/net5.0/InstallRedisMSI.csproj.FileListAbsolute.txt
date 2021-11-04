@@ -1,0 +1,16 @@
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.exe
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.deps.json
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.runtimeconfig.json
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.runtimeconfig.dev.json
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.dll
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\ref\InstallRedisMSI.dll
+D:\Projects\InstallRedisMSI\InstallRedisMSI\bin\Release\net5.0\InstallRedisMSI.pdb
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.csproj.AssemblyReference.cache
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.AssemblyInfoInputs.cache
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.AssemblyInfo.cs
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.csproj.CoreCompileInputs.cache
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.dll
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\ref\InstallRedisMSI.dll
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.pdb
+D:\Projects\InstallRedisMSI\InstallRedisMSI\obj\Release\net5.0\InstallRedisMSI.genruntimeconfig.cache

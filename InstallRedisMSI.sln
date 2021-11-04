@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallRedisMSI", "InstallRedisMSI\InstallRedisMSI.csproj", "{9321C7E8-0213-4758-8CE1-C5DBD3F419E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9321C7E8-0213-4758-8CE1-C5DBD3F419E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9321C7E8-0213-4758-8CE1-C5DBD3F419E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9321C7E8-0213-4758-8CE1-C5DBD3F419E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9321C7E8-0213-4758-8CE1-C5DBD3F419E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA6A6C2-7ED3-473D-956D-822BC9C3653C}
+	EndGlobalSection
+EndGlobal
